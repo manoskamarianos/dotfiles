@@ -5,3 +5,7 @@
 #exeptions
 
 !.gitignore
+!alacritty
+!bspwm
+!picom
+!sxhkd
